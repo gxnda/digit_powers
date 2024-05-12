@@ -7,7 +7,9 @@ sum of integer powers of its digits (base 10)?'
 
 ## How many are there below 100?
 
-There is only 1 (89)
+There is only 1 (89 -> 8^1 + 9^2).
+
+## Things I don't feel like answering:
 
 - [ ] Are there an infinite number of such numbers?
 - [ ] Is there an infinite number in all bases higher than binary?
