@@ -1,6 +1,6 @@
 # What is this?
 
-'Are there any numbers (two digits or more) that can be written as a'
+'Are there any numbers (two digits or more) that can be written as a
 sum of integer powers of its digits (base 10)?'
 
 ```135 = 1^1 + 3^2 + 5^3```
